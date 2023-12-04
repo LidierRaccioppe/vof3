@@ -72,11 +72,6 @@ class IU : ViewModel() {
         fraseActual.value = frases.random()
 
     }
-
-    /**
-     * Función que se encarga de mostrar el juego
-     */
-
     /**
      * Boton que se usa para empezar el juego y comenzar la cuenta atras
      */
